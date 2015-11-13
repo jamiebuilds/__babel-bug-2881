@@ -1,0 +1,9 @@
+{
+	"configurations": [
+		{
+			"name": "Launch debug.js",
+			"type": "node",
+			"program": "debug.js"
+		}
+	]
+}

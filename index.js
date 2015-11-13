@@ -1,12 +1,4 @@
-class Player {
-  get id() {
-    return this._id;
-  }
-
-  constructor(id) {
-    this._id = id;
-  }
-}
+import Player from './player';
 
 class Application {
   static get Player() {
